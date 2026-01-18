@@ -1,0 +1,38 @@
+Metadata-Version: 2.4
+Name: text-utils
+Version: 0.1.0
+Summary: A basic text-utils pacakge
+Home-page: https://github.com/prachikabra121/text_utils
+Author: Prachi Kabra
+Author-email: kabraprachi1@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
+
+#text-utils
+
+A simple python package for basic text utilities
+
+##installation
+
+pip install text_utils
+
+
+#3 usage
+
+from text_utils import clean_text,word_count
+
+text = " Hello   welcome   to   the world    of anlytics"
+
+
+print(clean_text(text))
