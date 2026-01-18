@@ -5,7 +5,7 @@ setup(
 name="text-utils-prachi",
 version="0.1.0",
 author="Prachi Kabra",
-author_email="kabraprachi1@gmail.com",
+author_email="pythonwithprachi1213@gmail.com",
 description="A basic text-utils pacakge",
 long_description=open("README.md").read(),
 long_description_content_type="text/markdown",
