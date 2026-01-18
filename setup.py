@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-name="text-utils",
+name="text-utils-prachi",
 version="0.1.0",
 author="Prachi Kabra",
 author_email="kabraprachi1@gmail.com",
